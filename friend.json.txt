@@ -1,0 +1,30 @@
+[
+{ 
+"studentID": "604234053",
+"firstName": "Wirarat",   
+"lastName": "Plodmai",
+"nickName": "Snook",
+"major": "ComputerScience",
+ "birthday": "1998-08-29",
+"picture" : "https://raw.githubusercontent.com/604234046CS/Friend/master/1111.jpg" 
+},
+{
+  "studentID": "604234066",
+"firstName": "Sararat ",  
+"lastName": "Boonyodying",
+"nickName": "khem",
+"major": "ComputerScience",
+"birthday": "1998-0-27",
+"picture" : "https://raw.githubusercontent.com/604234046CS/Friend/master/2222.jpg" 
+},
+{
+  "studentID": "604234046",
+"firstName": "Pornthiwa  ",  
+"lastName": "Niyunuh",
+"nickName": "nah",
+"major": "ComputerScience",
+"birthday": "1999-05-10",
+"picture" : "https://raw.githubusercontent.com/604234046CS/Friend/master/3333.jpg" 
+
+}
+]
